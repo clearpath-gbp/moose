@@ -1,0 +1,14 @@
+ros-kinetic-moose-msgs (0.1.1-1xenial) xenial; urgency=high
+
+
+
+ -- Tony Baltovski <tbaltovski@clearpathrobotics.com>  Tue, 09 Mar 2021 05:00:00 -0000
+
+ros-kinetic-moose-msgs (0.1.0-1xenial) xenial; urgency=high
+
+  * Initial commit for Moose.
+  * Contributors: Tony Baltovski
+
+ -- Tony Baltovski <tbaltovski@clearpathrobotics.com>  Wed, 11 Dec 2019 05:00:00 -0000
+
+
