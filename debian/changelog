@@ -1,0 +1,19 @@
+ros-kinetic-moose-control (0.1.1-1xenial) xenial; urgency=high
+
+  * Expose MOOSE_JOY_DEV and MOOSE_JOY_TELEOP environment variables.  Enable the joy node's messages to be received by twist_mux with the same priority as Warthog.
+  * Contributors: Chris Iverach-Brereton
+
+ -- Tony Baltovski <tbaltovski@clearpathrobotics.com>  Tue, 09 Mar 2021 05:00:00 -0000
+
+ros-kinetic-moose-control (0.1.0-1xenial) xenial; urgency=high
+
+  * Updated collisions,
+  * Made the generator optional
+  * Moved interactive markers to manned control and removed joy
+  * Added wheels to URDF.
+  * Initial commit for Moose.
+  * Contributors: Dave Niewinski, Tony Baltovski
+
+ -- Tony Baltovski <tbaltovski@clearpathrobotics.com>  Wed, 11 Dec 2019 05:00:00 -0000
+
+
