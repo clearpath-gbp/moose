@@ -1,0 +1,25 @@
+ros-melodic-moose-description (0.1.2-1bionic) bionic; urgency=high
+
+
+
+ -- Tony Baltovski <tbaltovski@clearpathrobotics.com>  Mon, 07 Mar 2022 05:00:00 -0000
+
+ros-melodic-moose-description (0.1.1-1bionic) bionic; urgency=high
+
+  * Add the legacy mode NS flag to the gazebo file. This gets rid of a warning when launching gazebo
+  * Contributors: Chris I-B
+
+ -- Tony Baltovski <tbaltovski@clearpathrobotics.com>  Tue, 09 Mar 2021 05:00:00 -0000
+
+ros-melodic-moose-description (0.1.0-1bionic) bionic; urgency=high
+
+  * Updated collisions,
+  * Made the generator optional
+  * Moved interactive markers to manned control and removed joy
+  * Added wheels to URDF.
+  * Initial commit for Moose.
+  * Contributors: Dave Niewinski, Tony Baltovski
+
+ -- Tony Baltovski <tbaltovski@clearpathrobotics.com>  Wed, 11 Dec 2019 05:00:00 -0000
+
+
